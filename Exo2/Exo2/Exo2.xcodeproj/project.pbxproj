@@ -1,0 +1,102 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D16DF68C1AD6E65B003F05E9 /* Point.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Point.cpp; sourceTree = "<group>"; };
+		D16DF68D1AD6E65B003F05E9 /* Point.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Point.h; sourceTree = "<group>"; };
+		D16DF68E1AD6E66B003F05E9 /* Forme.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Forme.cpp; sourceTree = "<group>"; };
+		D16DF68F1AD6E66B003F05E9 /* Forme.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Forme.h; sourceTree = "<group>"; };
+		D16DF6901AD6E67A003F05E9 /* Cercle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Cercle.cpp; sourceTree = "<group>"; };
+		D16DF6911AD6E67A003F05E9 /* Cercle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Cercle.h; sourceTree = "<group>"; };
+		D16DF6921AD6E688003F05E9 /* Carre.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Carre.cpp; sourceTree = "<group>"; };
+		D16DF6931AD6E688003F05E9 /* Carre.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Carre.h; sourceTree = "<group>"; };
+		D16DF6941AD6E699003F05E9 /* Position.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Position.cpp; sourceTree = "<group>"; };
+		D16DF6951AD6E699003F05E9 /* Position.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Position.h; sourceTree = "<group>"; };
+		D16DF6961AD6E6A4003F05E9 /* Rectangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Rectangle.cpp; sourceTree = "<group>"; };
+		D16DF6971AD6E6A4003F05E9 /* Rectangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Rectangle.h; sourceTree = "<group>"; };
+		D16DF6981AD6E6B6003F05E9 /* Vecteur.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Vecteur.cpp; sourceTree = "<group>"; };
+		D16DF6991AD6E6B6003F05E9 /* Vecteur.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vecteur.h; sourceTree = "<group>"; };
+		D16DF69A1AD6E6C5003F05E9 /* Segment.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Segment.cpp; sourceTree = "<group>"; };
+		D16DF69B1AD6E6C5003F05E9 /* Segment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Segment.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D16DF6851AD6E624003F05E9 = {
+			isa = PBXGroup;
+			children = (
+				D16DF68C1AD6E65B003F05E9 /* Point.cpp */,
+				D16DF68D1AD6E65B003F05E9 /* Point.h */,
+				D16DF68E1AD6E66B003F05E9 /* Forme.cpp */,
+				D16DF68F1AD6E66B003F05E9 /* Forme.h */,
+				D16DF6901AD6E67A003F05E9 /* Cercle.cpp */,
+				D16DF6911AD6E67A003F05E9 /* Cercle.h */,
+				D16DF6921AD6E688003F05E9 /* Carre.cpp */,
+				D16DF6931AD6E688003F05E9 /* Carre.h */,
+				D16DF6941AD6E699003F05E9 /* Position.cpp */,
+				D16DF6951AD6E699003F05E9 /* Position.h */,
+				D16DF6961AD6E6A4003F05E9 /* Rectangle.cpp */,
+				D16DF6971AD6E6A4003F05E9 /* Rectangle.h */,
+				D16DF6981AD6E6B6003F05E9 /* Vecteur.cpp */,
+				D16DF6991AD6E6B6003F05E9 /* Vecteur.h */,
+				D16DF69A1AD6E6C5003F05E9 /* Segment.cpp */,
+				D16DF69B1AD6E6C5003F05E9 /* Segment.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D16DF6861AD6E624003F05E9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+			};
+			buildConfigurationList = D16DF6891AD6E624003F05E9 /* Build configuration list for PBXProject "Exo2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D16DF6851AD6E624003F05E9;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D16DF68A1AD6E624003F05E9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D16DF68B1AD6E624003F05E9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D16DF6891AD6E624003F05E9 /* Build configuration list for PBXProject "Exo2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D16DF68A1AD6E624003F05E9 /* Debug */,
+				D16DF68B1AD6E624003F05E9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D16DF6861AD6E624003F05E9 /* Project object */;
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E284184F-0181-42D8-90BB-5C12FD8D3B2A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Exo2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9E16F3640F9A73233AF6F69AFBAA497495E0556</key>
+		<string>https://github.com/fenyouse/C-1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Exo2/Exo2/Exo2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9E16F3640F9A73233AF6F69AFBAA497495E0556</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fenyouse/C-1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9E16F3640F9A73233AF6F69AFBAA497495E0556</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9E16F3640F9A73233AF6F69AFBAA497495E0556</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C++1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
